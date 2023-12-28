@@ -16,8 +16,6 @@ I am an Front-end Developer who is love with React
                     </p>
                     
                   ### Socials
-                  
-                  
                 <p align="left">
                       <a href="https://www.github.com/Priyanga-Developer" target="_blank" rel="noreferrer">
                     <picture>
